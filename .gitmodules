@@ -1,6 +1,6 @@
-[submodule "pm_playground"]
-	path = pm_playground
-	url = https://github.com/volerog/pm_playground
+[submodule "vs"]
+	path = vs
+	url = git@github.com:volerog/very_smart.git
 [submodule "pm"]
 	path = pm
 	url = https://github.com/volerog/pm_playground
