@@ -1,3 +1,6 @@
 [submodule "pm"]
 	path = pm
 	url = https://github.com/volerog/pm_playground
+[submodule "vs"]
+	path = vs
+	url = https://github.com/volerog/very_smart
